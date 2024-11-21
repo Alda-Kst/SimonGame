@@ -3,5 +3,5 @@
 
 ## I added sounds to the game upon button pressing and gameover sound when the player loses the game.All the files are available in the sounds folder.
 
-### Demo 
+## Demo 
 You can check out a demo [here](https://alda-kst.github.io/SimonGame/).
